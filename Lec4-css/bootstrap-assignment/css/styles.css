@@ -1,0 +1,12 @@
+/* Make section tall to allow scrolling */
+.content-box {
+  background-color: #e0e0e0;
+  height: 1000px;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+/* Make sure mobile menu takes full width */
+.navbar-collapse {
+  background-color: #d0d0d0;
+}
